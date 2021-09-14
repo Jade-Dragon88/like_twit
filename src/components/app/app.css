@@ -1,0 +1,11 @@
+body{
+  background: #bde2f3;
+}
+.app {
+  margin: 0 auto;
+  max-width: 800px;
+}
+i {
+  font-style: normal !important;
+  font-family: fontawesome !important;
+  }
